@@ -1,0 +1,27 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f6f8fc;
+    margin: 0;
+    padding: 0;
+}
+.title {
+    display: flex;
+    justify-content: center;
+}
+.title img {
+    /* max-height: 170px; */
+    padding: 1.2rem;
+    margin: 0;
+}
+.content {
+    width: 95vw; 
+    background-color: rgb(133, 128, 128);
+    max-width: 992px;
+    height: auto;
+    margin: 2rem auto;
+    border-radius: 1rem;
+}
+
